@@ -1,4 +1,5 @@
-name: Build 
+
+name: Build and test
 
 on:
   pull_request:
